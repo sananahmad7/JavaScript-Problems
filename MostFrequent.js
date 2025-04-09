@@ -22,5 +22,5 @@ function mostFrequentNumber(arr) {
 
   return mostFrequent;
 }
-let arr = [1, 3, 3, 1, 1, 0, 2, 3, 3, 4];
+let arr = [1, 1, 3, 1, 1, 0, 2, 3, 3, 4];
 console.log(mostFrequentNumber(arr));
