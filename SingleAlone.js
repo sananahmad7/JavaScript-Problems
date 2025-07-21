@@ -11,5 +11,5 @@ const singleNumber = (nums) => {
   return result;
 };
 
-const nums = [2, 2, 1];
+const nums = [2, 2, 1, 1, 9];
 console.log(singleNumber(nums));

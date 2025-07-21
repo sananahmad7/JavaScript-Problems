@@ -19,7 +19,7 @@ function mostFrequentNumber(arr) {
       mostFrequent = num;
     }
   }
-
+  return frequencyMap;
   return mostFrequent;
 }
 let arr = [1, 1, 3, 1, 1, 0, 2, 3, 3, 4];
